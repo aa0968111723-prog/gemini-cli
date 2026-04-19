@@ -59,7 +59,28 @@
             "label": "Set up an MCP server",
             "slug": "docs/cli/tutorials/mcp-setup"
           },
-          { "label": "Automate tasks", "slug": "docs/cli/tutorials/automation" }
+          {
+            "label": "Automate tasks",
+            "slug": "docs/cli/tutorials/automation"
+          },
+          {
+            "label": "學習文件中心",
+            "collapsed": true,
+            "items": [
+              {
+                "label": "總覽",
+                "slug": "docs/learning-document-center"
+              },
+              {
+                "label": "影片學習區",
+                "slug": "docs/learning-document-center/video-learning-zone"
+              },
+              {
+                "label": "學習測驗區",
+                "slug": "docs/learning-document-center/learning-quiz-zone"
+              }
+            ]
+          }
         ]
       },
       {

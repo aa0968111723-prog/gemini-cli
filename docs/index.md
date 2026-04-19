@@ -45,6 +45,8 @@ User-focused guides and tutorials for daily development workflows.
 - **[Set up an MCP server](./cli/tutorials/mcp-setup.md):** Set up an MCP
   server.
 - **[Automate tasks](./cli/tutorials/automation.md):** Automate tasks.
+- **[學習文件中心](./learning-document-center/index.md):**
+  學習文件入口，包含影片學習區與學習測驗區。
 
 ## Features
 
